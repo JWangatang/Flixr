@@ -1,6 +1,6 @@
-#Flixr
-######Feed of Now Playing and Top Rated Movies
-###Features
+# Flixr
+###### Feed of Now Playing and Top Rated Movies
+### Features
 - Pods used: AFNetworking, MBRefreshHUD
 - Pulls from MovieDB API
 - Custom tab bar, Navigation Controllers
